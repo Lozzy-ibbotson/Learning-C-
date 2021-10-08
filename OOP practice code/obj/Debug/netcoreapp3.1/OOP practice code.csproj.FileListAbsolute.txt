@@ -1,0 +1,13 @@
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.AssemblyInfo.cs
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.exe
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.deps.json
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.runtimeconfig.json
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.dll
+C:\Users\Laura\source\repos\OOP practice code\bin\Debug\netcoreapp3.1\OOP practice code.pdb
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.dll
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.pdb
+C:\Users\Laura\source\repos\OOP practice code\obj\Debug\netcoreapp3.1\OOP practice code.genruntimeconfig.cache

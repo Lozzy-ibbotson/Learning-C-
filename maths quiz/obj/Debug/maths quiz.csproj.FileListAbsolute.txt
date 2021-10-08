@@ -1,0 +1,10 @@
+C:\Users\Laura\source\repos\maths quiz\bin\Debug\maths quiz.exe.config
+C:\Users\Laura\source\repos\maths quiz\bin\Debug\maths quiz.exe
+C:\Users\Laura\source\repos\maths quiz\bin\Debug\maths quiz.pdb
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths quiz.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths_quiz.Form1.resources
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths_quiz.Properties.Resources.resources
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths quiz.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths quiz.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths quiz.exe
+C:\Users\Laura\source\repos\maths quiz\obj\Debug\maths quiz.pdb

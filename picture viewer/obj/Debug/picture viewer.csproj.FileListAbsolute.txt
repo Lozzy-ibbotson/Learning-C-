@@ -1,0 +1,10 @@
+C:\Users\Laura\source\repos\picture viewer\bin\Debug\picture viewer.exe.config
+C:\Users\Laura\source\repos\picture viewer\bin\Debug\picture viewer.exe
+C:\Users\Laura\source\repos\picture viewer\bin\Debug\picture viewer.pdb
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture viewer.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture_viewer.Form1.resources
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture_viewer.Properties.Resources.resources
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture viewer.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture viewer.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture viewer.exe
+C:\Users\Laura\source\repos\picture viewer\obj\Debug\picture viewer.pdb

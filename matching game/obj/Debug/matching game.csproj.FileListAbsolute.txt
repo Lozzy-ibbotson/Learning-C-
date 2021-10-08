@@ -1,0 +1,11 @@
+C:\Users\Laura\source\repos\matching game\bin\Debug\matching game.exe.config
+C:\Users\Laura\source\repos\matching game\bin\Debug\matching game.exe
+C:\Users\Laura\source\repos\matching game\bin\Debug\matching game.pdb
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching_game.Form1.resources
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching_game.Properties.Resources.resources
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching game.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching game.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching game.exe
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching game.pdb
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching_game.Form2.resources
+C:\Users\Laura\source\repos\matching game\obj\Debug\matching game.csprojAssemblyReference.cache
